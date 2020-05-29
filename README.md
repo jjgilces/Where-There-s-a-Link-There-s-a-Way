@@ -1,2 +1,2 @@
-# -Food-for-Thought
+# Food forThought
 Hackaton Covid19 NASA SpaceApps.
