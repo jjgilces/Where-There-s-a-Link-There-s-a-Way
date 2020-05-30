@@ -15,4 +15,5 @@ for events in range(len(jsan_data_features)):
        title=jsan_data_features[events]['properties']['title']
        cordenates=jsan_data_features[events]['geometry']['coordinates']
        print("title :"+str(title)+"  cordenadas :" + str(cordenates))
+       print("="*50)
 
