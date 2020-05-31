@@ -11,7 +11,8 @@ Studies by various researchers around the world concluded that weather factors p
 
 
 
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/jjgilces/Where-There-s-a-Link-There-s-a-Way/graphs/contributors)
+
 
 <a href="https://github.com/jjgilces/Where-There-s-a-Link-There-s-a-Way"><img src="https://raw.githubusercontent.com/jjgilces/Where-There-s-a-Link-There-s-a-Way/master/src/images/PEGASUS.png" title="Pegasus" alt="Pegasus"></a>
 
