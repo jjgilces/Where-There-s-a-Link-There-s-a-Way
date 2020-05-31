@@ -13,8 +13,8 @@
 
   <!-- Bootstrap core CSS -->
   <link href="src/node_modules/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="src/css/Semaforo.css" />
 
-  <!-- Custom styles for this template -->
   <link href="src/node_modules/modern-business.css" rel="stylesheet">
 
 
@@ -82,17 +82,17 @@
         </ul>
         <p>Remember that the traffic light can change during the day, if you notice any sudden change
          in the weather avoid being away from home for a long time.</p>
-        <select class="selectpicker countrypicker" data-flag="true" ></select>
  
 
-  
       </div>
-      <div class="col-lg-6">
-        <img class="img-fluid rounded" src="canvas.jpg" alt="">
+      <div class="col-lg-3">
+        <img class="img-fluid rounded" src="src/images/alert.png" alt="">
       </div>
-    </div>
-    <!-- /.row -->
-
+        <div class="circle red" color="red"></div>
+        <div class="circle" color="yellow"></div>
+        <div class="circle" color="green"></div>
+      </div>
+ 
     <hr>
 
     <!-- Call to Action Section -->
@@ -100,12 +100,15 @@
     <div class="card mb-3" style="max-width: 510px; margin-right: 30px;">
       <div class="row no-gutters">
         <div class="col-md-4 ">
-          <img src="factores.png" class="card-img" alt="..." style="margin-top: 30px; width: 11em; height:8em">
+          <img src="src/images/factores.png" class="card-img" alt="..." style="margin-top: 30px; width: 11em; height:8em">
         </div>
         <div class="col-md-8">
           <div class="card-body">
-            <h5 class="card-title text-center">Card title</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <h5 class="card-title text-center">Environmental Signs</h5>
+            <p class="card-text">
+                In the face of the pandemic worldwide, local climatic conditions with low temperature; mild temperature range 
+                during the day, and low humidity, probably favor the transmission of Covid19.
+             </p>
             <a href="factores.html" class="btn btn-secondary">Learn more</a>
           </div>
         </div>
@@ -115,11 +118,11 @@
     <div class="card mb-3" style="max-width: 510px;">
       <div class="row no-gutters">
         <div class="col-md-4">
-          <img src="salud.png" class="card-img" alt="..." style="margin-top: 30px; width: 11em; height:8em">
+          <img src="src/images/salud.png" class="card-img" alt="..." style="margin-top: 30px; width: 11em; height:8em">
         </div>
         <div class="col-md-8">
           <div class="card-body">
-            <h5 class="card-title text-center">Card title</h5>
+            <h5 class="card-title text-center">Save and Sound</h5>
             <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
             <a href="" class="btn btn-secondary">Learn more</a>
 
@@ -148,6 +151,8 @@
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="src/script/semaforo.js"> </script>
+
 
 </body>
 
