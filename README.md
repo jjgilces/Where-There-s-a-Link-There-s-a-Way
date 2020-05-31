@@ -17,9 +17,23 @@ Studies by various researchers around the world concluded that weather factors p
 <a href="https://github.com/jjgilces/Where-There-s-a-Link-There-s-a-Way"><img src="https://raw.githubusercontent.com/jjgilces/Where-There-s-a-Link-There-s-a-Way/master/src/images/PEGASUS.png" title="Pegasus" alt="Pegasus"></a>
 
 
+# Environmental factors that spread COVID-19
+<a href="https://github.com/jjgilces/Where-There-s-a-Link-There-s-a-Way"><img src="https://raw.githubusercontent.com/jjgilces/Where-There-s-a-Link-There-s-a-Way/master/src/images/factors_covid-19.png" title="Pegasus" alt="Pegasus"></a>
+
+
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
+
+## Contributors
+
+[//]: contributor-faces
+
+<a href="https://github.com/eljosephavila123"><img src="https://avatars1.githubusercontent.com/u/46098690?s=460&u=42fd0c7c45d2dd602fe718bd937a31b46a5a811f&v=4" title="soyjosephavila" width="80" height="80"></a> <a href="https://github.com/jjgilces"><img src="https://avatars3.githubusercontent.com/u/59465061?s=460&u=90d64167df934f58e7e1e7f5ccaba9fa6d2581cb&v=4" title="jjgilices" width="80" height="80"></a> <a href="https://github.com/Dgloor"><img src="https://avatars1.githubusercontent.com/u/56457514?s=460&u=c0dbe623fc6df8d055c31cd337c81fa50b34d630&v=4" title="Dgloor" width="80" height="80"></a>
+
+
+
+
+[//]: contributor-faces
