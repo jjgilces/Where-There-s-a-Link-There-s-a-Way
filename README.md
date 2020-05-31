@@ -2,7 +2,7 @@
 <a href="https://github.com/jjgilces/Where-There-s-a-Link-There-s-a-Way"><img src="https://raw.githubusercontent.com/jjgilces/Where-There-s-a-Link-There-s-a-Way/master/src/images/image.png" title="Pegasus" alt="Pegasus"></a>
 
 
-Faced with the pandemic that across the world, we ask ourselves a question: What is a correlation between the values of some environmental variables and the level of contagion of Covid 19?
+Faced with the pandemic that across the world, we ask ourselves a question:<b> What is a correlation between the values of some environmental variables and the level of contagion of Covid 19? <b>
 
 Pablo García Chevesich, an academic at the Colorado School of Mines in the United States, argues that "environmental factors are always present in any pandemic of humanity and history has recognized it."
 
