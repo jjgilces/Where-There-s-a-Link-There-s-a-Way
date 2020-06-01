@@ -1,0 +1,17 @@
+
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+.text {
+  float: left;
+  width: 50%;
+  margin-left: 390px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  text-align: justify;
+  font-size: 15px;
+}
+
